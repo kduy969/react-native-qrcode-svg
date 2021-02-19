@@ -83,7 +83,6 @@ const renderBottomText = ({
       <Text
         fill="#101043"
         strokeWidth={0}
-        textDecoration={'bold'}
         textAnchor="middle"
         {...bottomTextProps}
       >
